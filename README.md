@@ -14,12 +14,5 @@ Menentukan model terbaik untuk memprediksi perkembangan COVID-19.
 
 Melakukan prediksi dan time series forecasting untuk memprediksi perkembangan COVID-19 untuk beberapa waktu ke depan.
 
-# Refrensi dataset yang dipakai
-(2022) Daily Update Data Agregat Covid-19 Jakarta [Data set]. https://tiny.cc/Datacovidjakarta
-  
-Google LLC. (2020). Indonesia Mobility Report 2020 [Data set]. https://www.google.com/covid19/mobility/
 
-Google LLC. (2020). Indonesia Mobility Report 2021 [Data set]. https://www.google.com/covid19/mobility/
-
-Google LLC. (2020). Indonesia Mobility Report 2022 [Data set]. https://www.google.com/covid19/mobility/
 
